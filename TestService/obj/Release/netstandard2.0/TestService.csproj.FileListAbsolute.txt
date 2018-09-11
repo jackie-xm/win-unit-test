@@ -1,0 +1,9 @@
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\bin\Release\netstandard2.0\TestService.deps.json
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\bin\Release\netstandard2.0\TestService.dll
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\bin\Release\netstandard2.0\TestService.pdb
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\obj\Release\netstandard2.0\TestService.csprojAssemblyReference.cache
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\obj\Release\netstandard2.0\TestService.csproj.CoreCompileInputs.cache
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\obj\Release\netstandard2.0\TestService.AssemblyInfoInputs.cache
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\obj\Release\netstandard2.0\TestService.AssemblyInfo.cs
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\obj\Release\netstandard2.0\TestService.dll
+C:\Users\jiangtian.yan\Desktop\unit-test-demo\TestService\obj\Release\netstandard2.0\TestService.pdb
