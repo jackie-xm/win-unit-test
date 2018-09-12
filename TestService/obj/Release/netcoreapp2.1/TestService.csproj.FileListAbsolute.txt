@@ -1,0 +1,9 @@
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\bin\Release\netcoreapp2.1\TestService.deps.json
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\bin\Release\netcoreapp2.1\TestService.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\bin\Release\netcoreapp2.1\TestService.pdb
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\obj\Release\netcoreapp2.1\TestService.csprojAssemblyReference.cache
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\obj\Release\netcoreapp2.1\TestService.csproj.CoreCompileInputs.cache
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\obj\Release\netcoreapp2.1\TestService.AssemblyInfoInputs.cache
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\obj\Release\netcoreapp2.1\TestService.AssemblyInfo.cs
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\obj\Release\netcoreapp2.1\TestService.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService\obj\Release\netcoreapp2.1\TestService.pdb

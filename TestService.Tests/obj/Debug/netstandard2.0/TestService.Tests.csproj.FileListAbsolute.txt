@@ -1,0 +1,15 @@
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\TestService.Tests.deps.json
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\TestService.Tests.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\TestService.Tests.pdb
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\TestService.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\bin\Debug\netstandard2.0\TestService.pdb
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.csprojAssemblyReference.cache
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.AssemblyInfoInputs.cache
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.AssemblyInfo.cs
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.csproj.CopyComplete
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.dll
+C:\Users\jiangtian.yan\Desktop\win-unit-test\TestService.Tests\obj\Debug\netstandard2.0\TestService.Tests.pdb
