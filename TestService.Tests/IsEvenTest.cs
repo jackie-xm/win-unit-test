@@ -20,7 +20,7 @@ namespace Test.UnitTests.Services {
 
         public void  ReturnIsEven() { 
 
-            var result = _testService.IsEven(2); 
+            var result = _testService.IsEven(1); 
 
             Assert.IsTrue(result, "2 is even");  
 
